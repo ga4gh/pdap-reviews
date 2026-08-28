@@ -4,12 +4,16 @@ This repository is the central store of public reviews for products moving throu
 
 ![PDAP review process](./assets/pdap_stages.png)
 
-# Reviews by group
+# Reviews by topic
 
-## TASC
+## Technical alignment reviews
 
-You can find TASC reviews within the [TASC folder](./tasc/).
+You can find reviews conducted by the Technical Alignment Subcommittee within the [TASC folder](./tasc/).
+
+## AI 
+
+You can find reviews conducted by the AI work stream within the [AI folder](./ai/).
 
 # Issues
 
-Issues are raised to trigger reviews and are the way to trigger the start of a review. Conclusions of the review will be placed here under the TASC user.
+Issues are raised to trigger reviews and are the way to trigger the start of a review. Conclusions of the review will be placed here under a singular machine user.
